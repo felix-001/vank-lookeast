@@ -1,4 +1,5 @@
 # Awesome vank-lookeast
+[TOC]
 ## 收房验收
 - 门不隔音
 - 窗帘盒裂缝，补救无效
@@ -8,9 +9,19 @@
 - 油烟机止逆阀及密封不好，反味
 - 门框没打胶会脱落
 - [有房才有家验房](https://mp.weixin.qq.com/s/r8Txi9ThatKBLT6uK9rulQ)
+- [验房](./验房)
 
 ## 除甲醛
 - [除甲醛方法](https://www.xiaohongshu.com/explore/62a6205a000000001d033146?app_platform=android&app_version=7.52.0&share_from_user_hidden=true&type=normal&xhsshare=WeixinSession&appuid=5f8e353e0000000001003664&apptime=1661232359)
 
 ## 景观设计原稿
 - [景观设计原稿](https://baijiahao.baidu.com/s?id=1665930892348902529&wfr=spider&for=pc)
+
+## 链接
+- [商业](./商业)
+- [4期](./4期)
+- [交通](./交通)
+- [教育](./教育)
+- [验房](./验房)
+- [信创园](./信创园)
+- [嘉会湖](./嘉会湖)
