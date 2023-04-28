@@ -1,5 +1,4 @@
 # Awesome vank-lookeast
-[TOC]
 ## 收房验收
 - 门不隔音
 - 窗帘盒裂缝，补救无效
